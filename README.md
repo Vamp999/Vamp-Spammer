@@ -3,3 +3,6 @@
 
 # Features: 
 • Webhook spammer
+
+# Spammer not working (How To Fix)
+reopen the webhook spammer still not working dm me Vamp!#6666
